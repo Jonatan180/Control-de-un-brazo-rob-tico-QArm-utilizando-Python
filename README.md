@@ -22,6 +22,7 @@ Este módulo representa el núcleo del proyecto y actúa como base para los dem�
 Videos:
 
 Programación punto a punto del QArm en Python (timelapse): https://www.youtube.com/watch?v=REl6ruUV72A
+
 Programación punto a punto del QArm en Python (tiempo real): https://www.youtube.com/watch?v=RGDOY5QbVYk
 
 ---
